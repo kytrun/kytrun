@@ -1,0 +1,14 @@
+name: Update README from RSS
+
+on:
+  label:
+    types: [Gitalk]
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          feed-url: https://tangkaichuan.cn/atom.xml
+          readme-section: feed
