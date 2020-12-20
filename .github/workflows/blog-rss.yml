@@ -1,8 +1,8 @@
 name: Update README from RSS
 
 on:
-  label:
-    types: [Gitalk]
+  issues:
+    types: [labeled]
 
 jobs:
   update:
