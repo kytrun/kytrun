@@ -7,9 +7,13 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
-    if: contains(github.event.issue.labels.*.name, 'Gitalk')
     steps:
-      - uses: JasonEtco/rss-to-readme@v1
-        with:
-          feed-url: https://tangkaichuan.cn/atom.xml
-          readme-section: feed
+        - if: contains(github.event.issue.labels.*.name, 'Gitalk')
+          env: 
+            LABEL_NAME: "${{github.event.issue.labels.*.name}}"
+          run: echo $LABLE_NAME
+        - uses: JasonEtco/rss-to-readme@v1
+          if: contains(github.event.issue.labels.*.name, 'Gitalk')
+          with:
+            feed-url: https://tangkaichuan.cn/atom.xml
+            readme-section: feed
