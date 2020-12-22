@@ -10,7 +10,7 @@ jobs:
     steps:
         - name: label
           env: 
-            LABEL_NAME: "${{ github.event.issue.labels.length }}"
+            LABEL_NAME: "${{ github.event.issue.labels[1] }}"
           run: echo $LABLE_NAME
 #         - uses: JasonEtco/rss-to-readme@v1
 #           if: contains(github.event.issue.labels.*.name, 'Gitalk')
