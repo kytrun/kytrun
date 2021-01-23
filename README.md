@@ -1,5 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=tangkaichuan&show_icons=true&icon_color=ad0d52&text_color=24292e&bg_color=ffffff&hide_title=false" />
-
 ### Hi there, I'm Keith 👋
 My latest blog posts:
 <!--START_SECTION:feed-->
@@ -11,3 +9,5 @@ My latest blog posts:
 <!--END_SECTION:feed-->
 
 *Source site: https://tangkaichuan.cn*
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=tangkaichuan&show_icons=true&icon_color=ad0d52&text_color=24292e&bg_color=ffffff&hide_title=false" />
