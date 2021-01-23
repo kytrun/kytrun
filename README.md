@@ -1,8 +1,7 @@
-[![](https://github-profile-trophy.vercel.app/?username=tangkaichuan&title=Commit,Star,Issue)](https://github-profile-trophy.vercel.app/?username=tangkaichuan)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=tangkaichuan&show_icons=true&icon_color=ad0d52&text_color=24292e&bg_color=ffffff&hide_title=true" />
+
 ### Hi there, I'm Keith 👋
-
-### My latest blog posts:
-
+My latest blog posts:
 <!--START_SECTION:feed-->
 * [K 荐 APP - MiXplorer](https:&#x2F;&#x2F;tangkaichuan.cn&#x2F;app-mixplorer&#x2F;)
 * [K 荐 APP - Moon FM](https:&#x2F;&#x2F;tangkaichuan.cn&#x2F;app-moon-fm&#x2F;)
