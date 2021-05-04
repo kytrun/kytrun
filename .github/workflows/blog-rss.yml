@@ -11,5 +11,5 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://tangkaichuan.cn/atom.xml
+          feed-url: https://kytrun.com/atom.xml
           readme-section: feed
