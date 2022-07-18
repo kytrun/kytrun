@@ -3,7 +3,7 @@
 ### Hi there, I'm Kytrun 👋
 My latest blog posts:
 <!--START_SECTION:feed-->
-* [Spring Cloud Feign 配置](https:&#x2F;&#x2F;kytrun.com&#x2F;spring-cloud-feign-config&#x2F;)
+* [Spring Cloud Feign 去除全局包装、统一异常处理](https:&#x2F;&#x2F;kytrun.com&#x2F;spring-cloud-feign-unwrap-and-exception&#x2F;)
 * [这七年](https:&#x2F;&#x2F;kytrun.com&#x2F;7-years&#x2F;)
 <!--END_SECTION:feed-->
 
