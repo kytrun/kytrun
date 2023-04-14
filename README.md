@@ -2,7 +2,7 @@
 
 # Kytrun👦🏻
 
-👋 Hi there! I'm a Java backend developer who is passionate about Spring Boot, Spring Cloud, Mybatis-plus, and more. I also have experience with Vue and uni-app on the frontend, and I'm interested in learning React Native.
+👋 Hi there! My primary role is as a Java backend developer, and I'm passionate about Spring Boot, Spring Cloud, Mybatis-plus, and more. I also have experience with Vue and uni-app on the frontend, and I'm interested in learning React Native.
 
 🎨 I love open source apps with great UI/UX design.
 
