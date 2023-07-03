@@ -1,5 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=kytrun&show_icons=true&icon_color=ad0d52&text_color=24292e&bg_color=ffffff&hide_title=false&&count_private=true&include_all_commits=true&disable_animations=true" />
-
 # Kytrun👦🏻
 
 👋 Hi there! My primary role is as a Java backend developer, and I'm passionate about Spring Boot, Spring Cloud, Mybatis-plus, and more. I also have experience with Vue and uni-app on the frontend, and I'm interested in learning React and React Native.
