@@ -21,5 +21,4 @@
 My latest blog posts:
 <!--START_SECTION:feed-->
 * [部署公网可访问的 AList](https:&#x2F;&#x2F;kytrun.com&#x2F;alist-public-deployment&#x2F;)
-* [拥抱孤独的自由：个人感情观与未来生活展望](https:&#x2F;&#x2F;kytrun.com&#x2F;embracing-solitude-freedom&#x2F;)
 <!--END_SECTION:feed-->
