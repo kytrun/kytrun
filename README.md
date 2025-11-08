@@ -21,4 +21,5 @@
 My latest blog posts:
 <!--START_SECTION:feed-->
 * [部署公网可访问的 AList](https:&#x2F;&#x2F;kytrun.com&#x2F;alist-public-deployment&#x2F;)
+* [Java 参数校验：只能从指定的值中取其一](https:&#x2F;&#x2F;kytrun.com&#x2F;java-validation-one-of&#x2F;)
 <!--END_SECTION:feed-->
